@@ -2,7 +2,7 @@
 
 A real-time strategy and autobattler game, built solo, in the browser. No engine, no framework, no install: around 31,000 lines of vanilla HTML and JavaScript.
 
-**Play it here:** https://shoot23.github.io/wargate/
+**Play it here:** https://shoot23.github.io/wargate/wargate.html
 
 ## What it is
 
